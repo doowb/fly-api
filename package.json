@@ -1,0 +1,27 @@
+{
+  "name": "fly-api",
+  "description": "Fly.io API wrapper for simplifying REST calls.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/doowb/fly-api",
+  "author": "Brian Woodward (https://doowb.com)",
+  "repository": "doowb/fly-api",
+  "bugs": {
+    "url": "https://github.com/doowb/fly-api/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "LICENSE"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "api",
+    "fly"
+  ]
+}
