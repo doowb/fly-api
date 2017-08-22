@@ -19,10 +19,6 @@
   "scripts": {
     "test": "mocha"
   },
-  "keywords": [
-    "api",
-    "fly"
-  ],
   "dependencies": {
     "extend-shallow": "^2.0.1",
     "superagent": "^3.5.2"
@@ -30,6 +26,10 @@
   "devDependencies": {
     "gulp-format-md": "^1.0.0"
   },
+  "keywords": [
+    "api",
+    "fly"
+  ],
   "verb": {
     "toc": false,
     "layout": "default",
