@@ -1,4 +1,4 @@
-# fly-api [![NPM version](https://img.shields.io/npm/v/fly-api.svg?style=flat)](https://www.npmjs.com/package/fly-api) [![NPM monthly downloads](https://img.shields.io/npm/dm/fly-api.svg?style=flat)](https://npmjs.org/package/fly-api)  [![NPM total downloads](https://img.shields.io/npm/dt/fly-api.svg?style=flat)](https://npmjs.org/package/fly-api)
+# fly-api [![NPM version](https://img.shields.io/npm/v/fly-api.svg?style=flat)](https://www.npmjs.com/package/fly-api) [![NPM monthly downloads](https://img.shields.io/npm/dm/fly-api.svg?style=flat)](https://npmjs.org/package/fly-api)  [![NPM total downloads](https://img.shields.io/npm/dt/fly-api.svg?style=flat)](https://npmjs.org/package/fly-api) [![Fly.io Community Slack](https://fly.io/slack/badge.svg)](https://fly.io/slack/)
 
 > Fly.io API wrapper for simplifying REST calls.
 
